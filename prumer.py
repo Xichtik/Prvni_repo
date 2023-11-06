@@ -5,4 +5,4 @@ def k_prumer(a:float, b:float) -> float:
 
 k_prumer(sys.argv[1], sys.argv[2])
 
-#Změna 2 333
+#Změna merge fosny
